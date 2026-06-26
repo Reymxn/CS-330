@@ -6,7 +6,7 @@ This project is a 3D rocket launch scene created using OpenGL and C++. The scene
 
 ---
 
-#Reflection
+# Module Eight Journal Reflection
 
 ## 1. How do I approach designing software?
 
